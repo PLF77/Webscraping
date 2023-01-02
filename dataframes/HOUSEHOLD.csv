@@ -1,0 +1,600 @@
+COU,Country,VAR,Variable,YEA,Year,Unit Code,Unit,PowerCode Code,PowerCode,Reference Period Code,Reference Period,Value,Flag Codes,Flags
+AUS,Australia,HOUSEHOLD,Waste from households,1992,1992,TONNE,Tonnes,3,Thousands,,,7000.0,,
+AUS,Australia,HOUSEHOLD,Waste from households,2000,2000,TONNE,Tonnes,3,Thousands,,,7660.0,,
+AUS,Australia,HOUSEHOLD,Waste from households,2003,2003,TONNE,Tonnes,3,Thousands,,,8903.0,,
+AUS,Australia,HOUSEHOLD,Waste from households,2007,2007,TONNE,Tonnes,3,Thousands,,,12241.4,,
+AUS,Australia,HOUSEHOLD,Waste from households,2008,2008,TONNE,Tonnes,3,Thousands,,,12441.68,E,Estimated value
+AUS,Australia,HOUSEHOLD,Waste from households,2009,2009,TONNE,Tonnes,3,Thousands,,,12676.074,,
+AUS,Australia,HOUSEHOLD,Waste from households,2010,2010,TONNE,Tonnes,3,Thousands,,,12882.481,,
+AUS,Australia,HOUSEHOLD,Waste from households,2011,2011,TONNE,Tonnes,3,Thousands,,,12798.87,,
+AUS,Australia,HOUSEHOLD,Waste from households,2012,2012,TONNE,Tonnes,3,Thousands,,,12893.72,E,Estimated value
+AUS,Australia,HOUSEHOLD,Waste from households,2013,2013,TONNE,Tonnes,3,Thousands,,,13009.93,E,Estimated value
+AUS,Australia,HOUSEHOLD,Waste from households,2014,2014,TONNE,Tonnes,3,Thousands,,,13099.915,,
+AUS,Australia,HOUSEHOLD,Waste from households,2015,2015,TONNE,Tonnes,3,Thousands,,,13266.019,,
+AUS,Australia,HOUSEHOLD,Waste from households,2016,2016,TONNE,Tonnes,3,Thousands,,,12368.326,,
+AUS,Australia,HOUSEHOLD,Waste from households,2017,2017,TONNE,Tonnes,3,Thousands,,,11975.075,,
+AUS,Australia,HOUSEHOLD,Waste from households,2018,2018,TONNE,Tonnes,3,Thousands,,,12009.404,,
+AUS,Australia,HOUSEHOLD,Waste from households,2019,2019,TONNE,Tonnes,3,Thousands,,,11943.144,,
+AUT,Austria,HOUSEHOLD,Waste from households,1990,1990,TONNE,Tonnes,3,Thousands,,,2504.0,,
+AUT,Austria,HOUSEHOLD,Waste from households,1991,1991,TONNE,Tonnes,3,Thousands,,,2426.0,,
+AUT,Austria,HOUSEHOLD,Waste from households,1992,1992,TONNE,Tonnes,3,Thousands,,,2476.0,,
+AUT,Austria,HOUSEHOLD,Waste from households,1993,1993,TONNE,Tonnes,3,Thousands,,,2509.0,,
+AUT,Austria,HOUSEHOLD,Waste from households,1994,1994,TONNE,Tonnes,3,Thousands,,,2568.0,,
+AUT,Austria,HOUSEHOLD,Waste from households,1995,1995,TONNE,Tonnes,3,Thousands,,,2644.0,,
+AUT,Austria,HOUSEHOLD,Waste from households,1996,1996,TONNE,Tonnes,3,Thousands,,,2775.0,,
+AUT,Austria,HOUSEHOLD,Waste from households,1997,1997,TONNE,Tonnes,3,Thousands,,,2907.0,,
+AUT,Austria,HOUSEHOLD,Waste from households,1998,1998,TONNE,Tonnes,3,Thousands,,,2913.0,,
+AUT,Austria,HOUSEHOLD,Waste from households,1999,1999,TONNE,Tonnes,3,Thousands,,,3096.0,,
+AUT,Austria,HOUSEHOLD,Waste from households,2000,2000,TONNE,Tonnes,3,Thousands,,,3246.0,,
+AUT,Austria,HOUSEHOLD,Waste from households,2001,2001,TONNE,Tonnes,3,Thousands,,,3234.0,,
+AUT,Austria,HOUSEHOLD,Waste from households,2002,2002,TONNE,Tonnes,3,Thousands,,,3309.0,,
+AUT,Austria,HOUSEHOLD,Waste from households,2003,2003,TONNE,Tonnes,3,Thousands,,,3327.0,,
+AUT,Austria,HOUSEHOLD,Waste from households,2004,2004,TONNE,Tonnes,3,Thousands,,,3418.7,,
+AUT,Austria,HOUSEHOLD,Waste from households,2005,2005,TONNE,Tonnes,3,Thousands,,,3463.7,,
+AUT,Austria,HOUSEHOLD,Waste from households,2006,2006,TONNE,Tonnes,3,Thousands,,,3677.7,,
+AUT,Austria,HOUSEHOLD,Waste from households,2007,2007,TONNE,Tonnes,3,Thousands,,,3728.0,,
+AUT,Austria,HOUSEHOLD,Waste from households,2008,2008,TONNE,Tonnes,3,Thousands,,,3786.0,,
+AUT,Austria,HOUSEHOLD,Waste from households,2009,2009,TONNE,Tonnes,3,Thousands,,,3895.0,,
+AUT,Austria,HOUSEHOLD,Waste from households,2010,2010,TONNE,Tonnes,3,Thousands,,,3788.5,,
+AUT,Austria,HOUSEHOLD,Waste from households,2011,2011,TONNE,Tonnes,3,Thousands,,,3947.2,,
+AUT,Austria,HOUSEHOLD,Waste from households,2012,2012,TONNE,Tonnes,3,Thousands,,,4020.3,,
+AUT,Austria,HOUSEHOLD,Waste from households,2013,2013,TONNE,Tonnes,3,Thousands,,,4031.7,,
+AUT,Austria,HOUSEHOLD,Waste from households,2014,2014,TONNE,Tonnes,3,Thousands,,,4170.2,,
+AUT,Austria,HOUSEHOLD,Waste from households,2015,2015,TONNE,Tonnes,3,Thousands,,,4160.0,,
+AUT,Austria,HOUSEHOLD,Waste from households,2016,2016,TONNE,Tonnes,3,Thousands,,,4269.0,,
+AUT,Austria,HOUSEHOLD,Waste from households,2017,2017,TONNE,Tonnes,3,Thousands,,,4322.0,,
+AUT,Austria,HOUSEHOLD,Waste from households,2018,2018,TONNE,Tonnes,3,Thousands,,,4407.7,,
+AUT,Austria,HOUSEHOLD,Waste from households,2019,2019,TONNE,Tonnes,3,Thousands,,,4497.95,E,Estimated value
+BEL,Belgium,HOUSEHOLD,Waste from households,1990,1990,TONNE,Tonnes,3,Thousands,,,2884.0,,
+BEL,Belgium,HOUSEHOLD,Waste from households,1995,1995,TONNE,Tonnes,3,Thousands,,,3646.0,,
+BEL,Belgium,HOUSEHOLD,Waste from households,1996,1996,TONNE,Tonnes,3,Thousands,,,3592.0,,
+BEL,Belgium,HOUSEHOLD,Waste from households,1997,1997,TONNE,Tonnes,3,Thousands,,,3806.0,,
+BEL,Belgium,HOUSEHOLD,Waste from households,1998,1998,TONNE,Tonnes,3,Thousands,,,3832.0,,
+BEL,Belgium,HOUSEHOLD,Waste from households,1999,1999,TONNE,Tonnes,3,Thousands,,,3787.0,,
+BEL,Belgium,HOUSEHOLD,Waste from households,2000,2000,TONNE,Tonnes,3,Thousands,,,3863.0,,
+BEL,Belgium,HOUSEHOLD,Waste from households,2001,2001,TONNE,Tonnes,3,Thousands,,,3797.0,,
+BEL,Belgium,HOUSEHOLD,Waste from households,2002,2002,TONNE,Tonnes,3,Thousands,,,3829.0,,
+BEL,Belgium,HOUSEHOLD,Waste from households,2003,2003,TONNE,Tonnes,3,Thousands,,,3724.0,,
+BEL,Belgium,HOUSEHOLD,Waste from households,2004,2004,TONNE,Tonnes,3,Thousands,,,3894.7,E,Estimated value
+BEL,Belgium,HOUSEHOLD,Waste from households,2005,2005,TONNE,Tonnes,3,Thousands,,,3863.6,E,Estimated value
+BEL,Belgium,HOUSEHOLD,Waste from households,2006,2006,TONNE,Tonnes,3,Thousands,,,3916.6,E,Estimated value
+BEL,Belgium,HOUSEHOLD,Waste from households,2007,2007,TONNE,Tonnes,3,Thousands,,,4042.3,E,Estimated value
+BEL,Belgium,HOUSEHOLD,Waste from households,2008,2008,TONNE,Tonnes,3,Thousands,,,4031.9,E,Estimated value
+BEL,Belgium,HOUSEHOLD,Waste from households,2009,2009,TONNE,Tonnes,3,Thousands,,,4058.5,E,Estimated value
+BEL,Belgium,HOUSEHOLD,Waste from households,2010,2010,TONNE,Tonnes,3,Thousands,,,3897.29,E,Estimated value
+CAN,Canada,HOUSEHOLD,Waste from households,1996,1996,TONNE,Tonnes,3,Thousands,,,7029.903,,
+CAN,Canada,HOUSEHOLD,Waste from households,1998,1998,TONNE,Tonnes,3,Thousands,,,9398.933,,
+CAN,Canada,HOUSEHOLD,Waste from households,2000,2000,TONNE,Tonnes,3,Thousands,,,11242.406,,
+CAN,Canada,HOUSEHOLD,Waste from households,2002,2002,TONNE,Tonnes,3,Thousands,,,11236.435,,
+CAN,Canada,HOUSEHOLD,Waste from households,2004,2004,TONNE,Tonnes,3,Thousands,,,12325.386,,
+CAN,Canada,HOUSEHOLD,Waste from households,2006,2006,TONNE,Tonnes,3,Thousands,,,13471.06,,
+CAN,Canada,HOUSEHOLD,Waste from households,2008,2008,TONNE,Tonnes,3,Thousands,,,13661.379,,
+CAN,Canada,HOUSEHOLD,Waste from households,2010,2010,TONNE,Tonnes,3,Thousands,,,13963.825,,
+CAN,Canada,HOUSEHOLD,Waste from households,2012,2012,TONNE,Tonnes,3,Thousands,,,14355.191,,
+CAN,Canada,HOUSEHOLD,Waste from households,2014,2014,TONNE,Tonnes,3,Thousands,,,14653.235,,
+CAN,Canada,HOUSEHOLD,Waste from households,2016,2016,TONNE,Tonnes,3,Thousands,,,15009.537,,
+CAN,Canada,HOUSEHOLD,Waste from households,2018,2018,TONNE,Tonnes,3,Thousands,,,15705.418,,
+CZE,Czech Republic,HOUSEHOLD,Waste from households,1994,1994,TONNE,Tonnes,3,Thousands,,,1659.8,,
+CZE,Czech Republic,HOUSEHOLD,Waste from households,1996,1996,TONNE,Tonnes,3,Thousands,,,2600.0,,
+CZE,Czech Republic,HOUSEHOLD,Waste from households,2002,2002,TONNE,Tonnes,3,Thousands,,,1991.55,E,Estimated value
+CZE,Czech Republic,HOUSEHOLD,Waste from households,2003,2003,TONNE,Tonnes,3,Thousands,,,1999.68,E,Estimated value
+CZE,Czech Republic,HOUSEHOLD,Waste from households,2004,2004,TONNE,Tonnes,3,Thousands,,,1989.0,E,Estimated value
+CZE,Czech Republic,HOUSEHOLD,Waste from households,2005,2005,TONNE,Tonnes,3,Thousands,,,2067.58,E,Estimated value
+CZE,Czech Republic,HOUSEHOLD,Waste from households,2006,2006,TONNE,Tonnes,3,Thousands,,,2127.09,E,Estimated value
+CZE,Czech Republic,HOUSEHOLD,Waste from households,2007,2007,TONNE,Tonnes,3,Thousands,,,2117.35,E,Estimated value
+CZE,Czech Republic,HOUSEHOLD,Waste from households,2008,2008,TONNE,Tonnes,3,Thousands,,,2223.15,E,Estimated value
+CZE,Czech Republic,HOUSEHOLD,Waste from households,2009,2009,TONNE,Tonnes,3,Thousands,,,2316.77,E,Estimated value
+CZE,Czech Republic,HOUSEHOLD,Waste from households,2010,2010,TONNE,Tonnes,3,Thousands,,,2333.97,E,Estimated value
+CZE,Czech Republic,HOUSEHOLD,Waste from households,2011,2011,TONNE,Tonnes,3,Thousands,,,2350.51,E,Estimated value
+CZE,Czech Republic,HOUSEHOLD,Waste from households,2012,2012,TONNE,Tonnes,3,Thousands,,,2262.85,E,Estimated value
+CZE,Czech Republic,HOUSEHOLD,Waste from households,2013,2013,TONNE,Tonnes,3,Thousands,,,2263.31,E,Estimated value
+CZE,Czech Republic,HOUSEHOLD,Waste from households,2014,2014,TONNE,Tonnes,3,Thousands,,,2239.983,E,Estimated value
+CZE,Czech Republic,HOUSEHOLD,Waste from households,2015,2015,TONNE,Tonnes,3,Thousands,,,2242.149,E,Estimated value
+CZE,Czech Republic,HOUSEHOLD,Waste from households,2016,2016,TONNE,Tonnes,3,Thousands,,,2332.965,E,Estimated value
+CZE,Czech Republic,HOUSEHOLD,Waste from households,2017,2017,TONNE,Tonnes,3,Thousands,,,3769.731,E; B,Estimated value; Break
+CZE,Czech Republic,HOUSEHOLD,Waste from households,2018,2018,TONNE,Tonnes,3,Thousands,,,3821.537,E,Estimated value
+CZE,Czech Republic,HOUSEHOLD,Waste from households,2019,2019,TONNE,Tonnes,3,Thousands,,,3886.983,E,Estimated value
+CZE,Czech Republic,HOUSEHOLD,Waste from households,2020,2020,TONNE,Tonnes,3,Thousands,,,3946.155,E,Estimated value
+DNK,Denmark,HOUSEHOLD,Waste from households,1994,1994,TONNE,Tonnes,3,Thousands,,,2575.0,,
+DNK,Denmark,HOUSEHOLD,Waste from households,1995,1995,TONNE,Tonnes,3,Thousands,,,2610.0,B,Break
+DNK,Denmark,HOUSEHOLD,Waste from households,1996,1996,TONNE,Tonnes,3,Thousands,,,2767.0,,
+DNK,Denmark,HOUSEHOLD,Waste from households,1997,1997,TONNE,Tonnes,3,Thousands,,,2776.0,,
+DNK,Denmark,HOUSEHOLD,Waste from households,1998,1998,TONNE,Tonnes,3,Thousands,,,2796.0,,
+DNK,Denmark,HOUSEHOLD,Waste from households,1999,1999,TONNE,Tonnes,3,Thousands,,,2963.0,,
+DNK,Denmark,HOUSEHOLD,Waste from households,2000,2000,TONNE,Tonnes,3,Thousands,,,3084.0,,
+DNK,Denmark,HOUSEHOLD,Waste from households,2001,2001,TONNE,Tonnes,3,Thousands,,,3083.0,,
+DNK,Denmark,HOUSEHOLD,Waste from households,2002,2002,TONNE,Tonnes,3,Thousands,,,3121.0,,
+DNK,Denmark,HOUSEHOLD,Waste from households,2003,2003,TONNE,Tonnes,3,Thousands,,,3009.0,,
+DNK,Denmark,HOUSEHOLD,Waste from households,2004,2004,TONNE,Tonnes,3,Thousands,,,3163.0,,
+DNK,Denmark,HOUSEHOLD,Waste from households,2005,2005,TONNE,Tonnes,3,Thousands,,,3337.0,,
+DNK,Denmark,HOUSEHOLD,Waste from households,2006,2006,TONNE,Tonnes,3,Thousands,,,3363.0,,
+DNK,Denmark,HOUSEHOLD,Waste from households,2007,2007,TONNE,Tonnes,3,Thousands,,,3607.0,,
+DNK,Denmark,HOUSEHOLD,Waste from households,2008,2008,TONNE,Tonnes,3,Thousands,,,3814.0,,
+DNK,Denmark,HOUSEHOLD,Waste from households,2009,2009,TONNE,Tonnes,3,Thousands,,,3437.0,E,Estimated value
+DNK,Denmark,HOUSEHOLD,Waste from households,2010,2010,TONNE,Tonnes,3,Thousands,,,3437.0,E,Estimated value
+DNK,Denmark,HOUSEHOLD,Waste from households,2011,2011,TONNE,Tonnes,3,Thousands,,,3260.0,B,Break
+DNK,Denmark,HOUSEHOLD,Waste from households,2012,2012,TONNE,Tonnes,3,Thousands,,,3197.0,,
+DNK,Denmark,HOUSEHOLD,Waste from households,2013,2013,TONNE,Tonnes,3,Thousands,,,3230.0,,
+DNK,Denmark,HOUSEHOLD,Waste from households,2014,2014,TONNE,Tonnes,3,Thousands,,,3255.0,,
+DNK,Denmark,HOUSEHOLD,Waste from households,2015,2015,TONNE,Tonnes,3,Thousands,,,3349.0,,
+DNK,Denmark,HOUSEHOLD,Waste from households,2016,2016,TONNE,Tonnes,3,Thousands,,,3354.0,,
+DNK,Denmark,HOUSEHOLD,Waste from households,2017,2017,TONNE,Tonnes,3,Thousands,,,3352.0,,
+DNK,Denmark,HOUSEHOLD,Waste from households,2018,2018,TONNE,Tonnes,3,Thousands,,,3204.0,,
+DNK,Denmark,HOUSEHOLD,Waste from households,2019,2019,TONNE,Tonnes,3,Thousands,,,3350.737,,
+DNK,Denmark,HOUSEHOLD,Waste from households,2020,2020,TONNE,Tonnes,3,Thousands,,,3474.165,E,Estimated value
+FIN,Finland,HOUSEHOLD,Waste from households,1994,1994,TONNE,Tonnes,3,Thousands,,,870.0,,
+FIN,Finland,HOUSEHOLD,Waste from households,1997,1997,TONNE,Tonnes,3,Thousands,,,920.0,E,Estimated value
+FIN,Finland,HOUSEHOLD,Waste from households,1999,1999,TONNE,Tonnes,3,Thousands,,,1000.0,E,Estimated value
+FIN,Finland,HOUSEHOLD,Waste from households,2000,2000,TONNE,Tonnes,3,Thousands,,,1040.0,E,Estimated value
+FIN,Finland,HOUSEHOLD,Waste from households,2001,2001,TONNE,Tonnes,3,Thousands,,,964.8,E,Estimated value
+FIN,Finland,HOUSEHOLD,Waste from households,2002,2002,TONNE,Tonnes,3,Thousands,,,953.8,E,Estimated value
+FIN,Finland,HOUSEHOLD,Waste from households,2003,2003,TONNE,Tonnes,3,Thousands,,,1024.4,E,Estimated value
+FIN,Finland,HOUSEHOLD,Waste from households,2004,2004,TONNE,Tonnes,3,Thousands,,,1203.0,E,Estimated value
+FIN,Finland,HOUSEHOLD,Waste from households,2005,2005,TONNE,Tonnes,3,Thousands,,,1228.6,E,Estimated value
+FIN,Finland,HOUSEHOLD,Waste from households,2006,2006,TONNE,Tonnes,3,Thousands,,,1274.9,E,Estimated value
+FIN,Finland,HOUSEHOLD,Waste from households,2007,2007,TONNE,Tonnes,3,Thousands,,,1500.0,E,Estimated value
+FIN,Finland,HOUSEHOLD,Waste from households,2008,2008,TONNE,Tonnes,3,Thousands,,,1552.2,E,Estimated value
+FIN,Finland,HOUSEHOLD,Waste from households,2009,2009,TONNE,Tonnes,3,Thousands,,,1436.9,E,Estimated value
+FIN,Finland,HOUSEHOLD,Waste from households,2010,2010,TONNE,Tonnes,3,Thousands,,,1412.6,E,Estimated value
+FIN,Finland,HOUSEHOLD,Waste from households,2011,2011,TONNE,Tonnes,3,Thousands,,,1523.0,,
+FIN,Finland,HOUSEHOLD,Waste from households,2012,2012,TONNE,Tonnes,3,Thousands,,,1533.33,,
+FIN,Finland,HOUSEHOLD,Waste from households,2013,2013,TONNE,Tonnes,3,Thousands,,,1501.67,,
+FIN,Finland,HOUSEHOLD,Waste from households,2014,2014,TONNE,Tonnes,3,Thousands,,,1472.73,E,Estimated value
+FIN,Finland,HOUSEHOLD,Waste from households,2015,2015,TONNE,Tonnes,3,Thousands,,,1768.93,E,Estimated value
+FIN,Finland,HOUSEHOLD,Waste from households,2016,2016,TONNE,Tonnes,3,Thousands,,,1799.15,E,Estimated value
+FIN,Finland,HOUSEHOLD,Waste from households,2017,2017,TONNE,Tonnes,3,Thousands,,,1827.53,E,Estimated value
+FIN,Finland,HOUSEHOLD,Waste from households,2018,2018,TONNE,Tonnes,3,Thousands,,,1976.7,E,Estimated value
+FIN,Finland,HOUSEHOLD,Waste from households,2019,2019,TONNE,Tonnes,3,Thousands,,,2151.171,,
+FIN,Finland,HOUSEHOLD,Waste from households,2020,2020,TONNE,Tonnes,3,Thousands,,,1993.139,,
+FRA,France,HOUSEHOLD,Waste from households,1992,1992,TONNE,Tonnes,3,Thousands,,,20500.0,,
+FRA,France,HOUSEHOLD,Waste from households,1993,1993,TONNE,Tonnes,3,Thousands,,,19841.0,,
+FRA,France,HOUSEHOLD,Waste from households,1995,1995,TONNE,Tonnes,3,Thousands,,,22602.0,B,Break
+FRA,France,HOUSEHOLD,Waste from households,1996,1996,TONNE,Tonnes,3,Thousands,,,23160.0,,
+FRA,France,HOUSEHOLD,Waste from households,1997,1997,TONNE,Tonnes,3,Thousands,,,23742.0,,
+FRA,France,HOUSEHOLD,Waste from households,1998,1998,TONNE,Tonnes,3,Thousands,,,24359.0,,
+FRA,France,HOUSEHOLD,Waste from households,1999,1999,TONNE,Tonnes,3,Thousands,,,24490.0,,
+FRA,France,HOUSEHOLD,Waste from households,2000,2000,TONNE,Tonnes,3,Thousands,,,24986.0,,
+FRA,France,HOUSEHOLD,Waste from households,2001,2001,TONNE,Tonnes,3,Thousands,,,25758.0,,
+FRA,France,HOUSEHOLD,Waste from households,2002,2002,TONNE,Tonnes,3,Thousands,,,26147.0,,
+FRA,France,HOUSEHOLD,Waste from households,2003,2003,TONNE,Tonnes,3,Thousands,,,25120.0,,
+FRA,France,HOUSEHOLD,Waste from households,2004,2004,TONNE,Tonnes,3,Thousands,,,25955.0,,
+FRA,France,HOUSEHOLD,Waste from households,2005,2005,TONNE,Tonnes,3,Thousands,,,26011.0,,
+FRA,France,HOUSEHOLD,Waste from households,2006,2006,TONNE,Tonnes,3,Thousands,,,26490.0,E,Estimated value
+FRA,France,HOUSEHOLD,Waste from households,2007,2007,TONNE,Tonnes,3,Thousands,,,26970.0,,
+FRA,France,HOUSEHOLD,Waste from households,2008,2008,TONNE,Tonnes,3,Thousands,,,26911.0,E,Estimated value
+FRA,France,HOUSEHOLD,Waste from households,2009,2009,TONNE,Tonnes,3,Thousands,,,26852.0,,
+FRA,France,HOUSEHOLD,Waste from households,2010,2010,TONNE,Tonnes,3,Thousands,,,26995.0,E,Estimated value
+FRA,France,HOUSEHOLD,Waste from households,2011,2011,TONNE,Tonnes,3,Thousands,,,27136.0,,
+FRA,France,HOUSEHOLD,Waste from households,2012,2012,TONNE,Tonnes,3,Thousands,,,26897.0,E,Estimated value
+FRA,France,HOUSEHOLD,Waste from households,2013,2013,TONNE,Tonnes,3,Thousands,,,26657.0,,
+FRA,France,HOUSEHOLD,Waste from households,2014,2014,TONNE,Tonnes,3,Thousands,,,26722.0,E,Estimated value
+FRA,France,HOUSEHOLD,Waste from households,2015,2015,TONNE,Tonnes,3,Thousands,,,26788.0,,
+FRA,France,HOUSEHOLD,Waste from households,2016,2016,TONNE,Tonnes,3,Thousands,,,27577.575,E,Estimated value
+FRA,France,HOUSEHOLD,Waste from households,2017,2017,TONNE,Tonnes,3,Thousands,,,27937.521,,
+FRA,France,HOUSEHOLD,Waste from households,2018,2018,TONNE,Tonnes,3,Thousands,,,27993.13,E,Estimated value
+FRA,France,HOUSEHOLD,Waste from households,2019,2019,TONNE,Tonnes,3,Thousands,,,30665.581,,
+FRA,France,HOUSEHOLD,Waste from households,2020,2020,TONNE,Tonnes,3,Thousands,,,29645.956,E,Estimated value
+DEU,Germany,HOUSEHOLD,Waste from households,1993,1993,TONNE,Tonnes,3,Thousands,,,24203.0,,
+DEU,Germany,HOUSEHOLD,Waste from households,1996,1996,TONNE,Tonnes,3,Thousands,,,35129.0,B,Break
+DEU,Germany,HOUSEHOLD,Waste from households,1997,1997,TONNE,Tonnes,3,Thousands,,,36211.0,,
+DEU,Germany,HOUSEHOLD,Waste from households,1998,1998,TONNE,Tonnes,3,Thousands,,,35871.0,,
+DEU,Germany,HOUSEHOLD,Waste from households,1999,1999,TONNE,Tonnes,3,Thousands,,,39093.0,B,Break
+DEU,Germany,HOUSEHOLD,Waste from households,2002,2002,TONNE,Tonnes,3,Thousands,,,46660.0,B,Break
+DEU,Germany,HOUSEHOLD,Waste from households,2003,2003,TONNE,Tonnes,3,Thousands,,,43931.0,,
+DEU,Germany,HOUSEHOLD,Waste from households,2004,2004,TONNE,Tonnes,3,Thousands,,,43149.0,,
+DEU,Germany,HOUSEHOLD,Waste from households,2005,2005,TONNE,Tonnes,3,Thousands,,,41412.0,,
+DEU,Germany,HOUSEHOLD,Waste from households,2006,2006,TONNE,Tonnes,3,Thousands,,,40827.0,,
+DEU,Germany,HOUSEHOLD,Waste from households,2007,2007,TONNE,Tonnes,3,Thousands,,,41750.0,,
+DEU,Germany,HOUSEHOLD,Waste from households,2008,2008,TONNE,Tonnes,3,Thousands,,,43215.0,,
+DEU,Germany,HOUSEHOLD,Waste from households,2009,2009,TONNE,Tonnes,3,Thousands,,,43230.0,,
+DEU,Germany,HOUSEHOLD,Waste from households,2010,2010,TONNE,Tonnes,3,Thousands,,,43556.0,,
+DEU,Germany,HOUSEHOLD,Waste from households,2011,2011,TONNE,Tonnes,3,Thousands,,,44045.0,,
+DEU,Germany,HOUSEHOLD,Waste from households,2012,2012,TONNE,Tonnes,3,Thousands,,,36472.0,B,Break
+DEU,Germany,HOUSEHOLD,Waste from households,2013,2013,TONNE,Tonnes,3,Thousands,,,36624.0,,
+DEU,Germany,HOUSEHOLD,Waste from households,2014,2014,TONNE,Tonnes,3,Thousands,,,36888.0,,
+DEU,Germany,HOUSEHOLD,Waste from households,2015,2015,TONNE,Tonnes,3,Thousands,,,37376.0,,
+DEU,Germany,HOUSEHOLD,Waste from households,2016,2016,TONNE,Tonnes,3,Thousands,,,37410.0,,
+DEU,Germany,HOUSEHOLD,Waste from households,2017,2017,TONNE,Tonnes,3,Thousands,,,38274.0,,
+DEU,Germany,HOUSEHOLD,Waste from households,2018,2018,TONNE,Tonnes,3,Thousands,,,37308.892,,
+DEU,Germany,HOUSEHOLD,Waste from households,2019,2019,TONNE,Tonnes,3,Thousands,,,38022.185,E,Estimated value
+DEU,Germany,HOUSEHOLD,Waste from households,2020,2020,TONNE,Tonnes,3,Thousands,,,39465.583,E,Estimated value
+HUN,Hungary,HOUSEHOLD,Waste from households,1990,1990,TONNE,Tonnes,3,Thousands,,,2468.0,,
+HUN,Hungary,HOUSEHOLD,Waste from households,1994,1994,TONNE,Tonnes,3,Thousands,,,2397.0,,
+HUN,Hungary,HOUSEHOLD,Waste from households,1995,1995,TONNE,Tonnes,3,Thousands,,,2543.0,,
+HUN,Hungary,HOUSEHOLD,Waste from households,1996,1996,TONNE,Tonnes,3,Thousands,,,2716.0,,
+HUN,Hungary,HOUSEHOLD,Waste from households,1997,1997,TONNE,Tonnes,3,Thousands,,,2853.0,,
+HUN,Hungary,HOUSEHOLD,Waste from households,1998,1998,TONNE,Tonnes,3,Thousands,,,2794.0,,
+HUN,Hungary,HOUSEHOLD,Waste from households,1999,1999,TONNE,Tonnes,3,Thousands,,,2813.0,,
+HUN,Hungary,HOUSEHOLD,Waste from households,2000,2000,TONNE,Tonnes,3,Thousands,,,2674.0,B,Break
+HUN,Hungary,HOUSEHOLD,Waste from households,2001,2001,TONNE,Tonnes,3,Thousands,,,2652.0,,
+HUN,Hungary,HOUSEHOLD,Waste from households,2002,2002,TONNE,Tonnes,3,Thousands,,,2685.0,,
+HUN,Hungary,HOUSEHOLD,Waste from households,2003,2003,TONNE,Tonnes,3,Thousands,,,2779.29,,
+HUN,Hungary,HOUSEHOLD,Waste from households,2004,2004,TONNE,Tonnes,3,Thousands,,,2654.0,,
+HUN,Hungary,HOUSEHOLD,Waste from households,2005,2005,TONNE,Tonnes,3,Thousands,,,2961.7,,
+HUN,Hungary,HOUSEHOLD,Waste from households,2006,2006,TONNE,Tonnes,3,Thousands,,,2978.0,,
+HUN,Hungary,HOUSEHOLD,Waste from households,2007,2007,TONNE,Tonnes,3,Thousands,,,2911.0,,
+HUN,Hungary,HOUSEHOLD,Waste from households,2008,2008,TONNE,Tonnes,3,Thousands,,,3444.0,,
+HUN,Hungary,HOUSEHOLD,Waste from households,2009,2009,TONNE,Tonnes,3,Thousands,,,3239.0,,
+HUN,Hungary,HOUSEHOLD,Waste from households,2010,2010,TONNE,Tonnes,3,Thousands,,,2844.0,,
+HUN,Hungary,HOUSEHOLD,Waste from households,2011,2011,TONNE,Tonnes,3,Thousands,,,2796.0,,
+HUN,Hungary,HOUSEHOLD,Waste from households,2012,2012,TONNE,Tonnes,3,Thousands,,,2744.0,,
+HUN,Hungary,HOUSEHOLD,Waste from households,2013,2013,TONNE,Tonnes,3,Thousands,,,2717.0,,
+HUN,Hungary,HOUSEHOLD,Waste from households,2014,2014,TONNE,Tonnes,3,Thousands,,,3136.0,E,Estimated value
+HUN,Hungary,HOUSEHOLD,Waste from households,2015,2015,TONNE,Tonnes,3,Thousands,,,3099.0,E,Estimated value
+HUN,Hungary,HOUSEHOLD,Waste from households,2016,2016,TONNE,Tonnes,3,Thousands,,,3209.0,E,Estimated value
+HUN,Hungary,HOUSEHOLD,Waste from households,2017,2017,TONNE,Tonnes,3,Thousands,,,2922.0,E,Estimated value
+HUN,Hungary,HOUSEHOLD,Waste from households,2018,2018,TONNE,Tonnes,3,Thousands,,,3151.0,E,Estimated value
+HUN,Hungary,HOUSEHOLD,Waste from households,2019,2019,TONNE,Tonnes,3,Thousands,,,3128.0,E,Estimated value
+HUN,Hungary,HOUSEHOLD,Waste from households,2020,2020,TONNE,Tonnes,3,Thousands,,,3053.154,,
+IRL,Ireland,HOUSEHOLD,Waste from households,1995,1995,TONNE,Tonnes,3,Thousands,,,1324.5,,
+IRL,Ireland,HOUSEHOLD,Waste from households,1996,1996,TONNE,Tonnes,3,Thousands,,,1360.2,,
+IRL,Ireland,HOUSEHOLD,Waste from households,1997,1997,TONNE,Tonnes,3,Thousands,,,1433.3,,
+IRL,Ireland,HOUSEHOLD,Waste from households,1998,1998,TONNE,Tonnes,3,Thousands,,,1220.9,,
+IRL,Ireland,HOUSEHOLD,Waste from households,1999,1999,TONNE,Tonnes,3,Thousands,,,1287.0,,
+IRL,Ireland,HOUSEHOLD,Waste from households,2000,2000,TONNE,Tonnes,3,Thousands,,,1333.4,,
+IRL,Ireland,HOUSEHOLD,Waste from households,2001,2001,TONNE,Tonnes,3,Thousands,,,1468.8,,
+IRL,Ireland,HOUSEHOLD,Waste from households,2002,2002,TONNE,Tonnes,3,Thousands,,,1679.1,B,Break
+IRL,Ireland,HOUSEHOLD,Waste from households,2003,2003,TONNE,Tonnes,3,Thousands,,,1704.8,,
+IRL,Ireland,HOUSEHOLD,Waste from households,2004,2004,TONNE,Tonnes,3,Thousands,,,1728.2,,
+IRL,Ireland,HOUSEHOLD,Waste from households,2005,2005,TONNE,Tonnes,3,Thousands,,,1746.4,,
+IRL,Ireland,HOUSEHOLD,Waste from households,2006,2006,TONNE,Tonnes,3,Thousands,,,1979.0,,
+IRL,Ireland,HOUSEHOLD,Waste from households,2007,2007,TONNE,Tonnes,3,Thousands,,,1761.0,,
+IRL,Ireland,HOUSEHOLD,Waste from households,2008,2008,TONNE,Tonnes,3,Thousands,,,1677.0,,
+IRL,Ireland,HOUSEHOLD,Waste from households,2009,2009,TONNE,Tonnes,3,Thousands,,,1626.0,,
+IRL,Ireland,HOUSEHOLD,Waste from households,2010,2010,TONNE,Tonnes,3,Thousands,,,1686.39,,
+IRL,Ireland,HOUSEHOLD,Waste from households,2011,2011,TONNE,Tonnes,3,Thousands,,,1683.24,,
+IRL,Ireland,HOUSEHOLD,Waste from households,2014,2014,TONNE,Tonnes,3,Thousands,,,1437.47,,
+IRL,Ireland,HOUSEHOLD,Waste from households,2015,2015,TONNE,Tonnes,3,Thousands,,,1437.47,,
+IRL,Ireland,HOUSEHOLD,Waste from households,2016,2016,TONNE,Tonnes,3,Thousands,,,1483.642,,
+IRL,Ireland,HOUSEHOLD,Waste from households,2017,2017,TONNE,Tonnes,3,Thousands,,,1520.29,,
+IRL,Ireland,HOUSEHOLD,Waste from households,2018,2018,TONNE,Tonnes,3,Thousands,,,1559.423,,
+IRL,Ireland,HOUSEHOLD,Waste from households,2019,2019,TONNE,Tonnes,3,Thousands,,,1619.102,,
+JPN,Japan,HOUSEHOLD,Waste from households,1995,1995,TONNE,Tonnes,3,Thousands,,,36984.0,,
+JPN,Japan,HOUSEHOLD,Waste from households,2000,2000,TONNE,Tonnes,3,Thousands,,,36844.0,,
+JPN,Japan,HOUSEHOLD,Waste from households,2005,2005,TONNE,Tonnes,3,Thousands,,,36471.0,,
+JPN,Japan,HOUSEHOLD,Waste from households,2006,2006,TONNE,Tonnes,3,Thousands,,,36220.0,,
+JPN,Japan,HOUSEHOLD,Waste from households,2007,2007,TONNE,Tonnes,3,Thousands,,,35724.0,,
+JPN,Japan,HOUSEHOLD,Waste from households,2008,2008,TONNE,Tonnes,3,Thousands,,,34104.0,,
+JPN,Japan,HOUSEHOLD,Waste from households,2009,2009,TONNE,Tonnes,3,Thousands,,,32974.0,,
+JPN,Japan,HOUSEHOLD,Waste from households,2010,2010,TONNE,Tonnes,3,Thousands,,,32385.0,,
+JPN,Japan,HOUSEHOLD,Waste from households,2011,2011,TONNE,Tonnes,3,Thousands,,,32385.0,,
+JPN,Japan,HOUSEHOLD,Waste from households,2012,2012,TONNE,Tonnes,3,Thousands,,,32137.0,,
+JPN,Japan,HOUSEHOLD,Waste from households,2013,2013,TONNE,Tonnes,3,Thousands,,,31757.0,,
+JPN,Japan,HOUSEHOLD,Waste from households,2014,2014,TONNE,Tonnes,3,Thousands,,,31242.0,,
+JPN,Japan,HOUSEHOLD,Waste from households,2015,2015,TONNE,Tonnes,3,Thousands,,,30935.0,,
+JPN,Japan,HOUSEHOLD,Waste from households,2016,2016,TONNE,Tonnes,3,Thousands,,,30182.0,,
+JPN,Japan,HOUSEHOLD,Waste from households,2017,2017,TONNE,Tonnes,3,Thousands,,,29880.0,,
+JPN,Japan,HOUSEHOLD,Waste from households,2018,2018,TONNE,Tonnes,3,Thousands,,,29684.0,,
+JPN,Japan,HOUSEHOLD,Waste from households,2019,2019,TONNE,Tonnes,3,Thousands,,,29714.0,,
+KOR,Korea,HOUSEHOLD,Waste from households,1996,1996,TONNE,Tonnes,3,Thousands,,,15411.0,,
+KOR,Korea,HOUSEHOLD,Waste from households,2000,2000,TONNE,Tonnes,3,Thousands,,,14375.0,,
+KOR,Korea,HOUSEHOLD,Waste from households,2002,2002,TONNE,Tonnes,3,Thousands,,,15616.0,,
+KOR,Korea,HOUSEHOLD,Waste from households,2004,2004,TONNE,Tonnes,3,Thousands,,,15175.0,,
+KOR,Korea,HOUSEHOLD,Waste from households,2005,2005,TONNE,Tonnes,3,Thousands,,,14807.0,,
+KOR,Korea,HOUSEHOLD,Waste from households,2006,2006,TONNE,Tonnes,3,Thousands,,,14944.0,,
+KOR,Korea,HOUSEHOLD,Waste from households,2007,2007,TONNE,Tonnes,3,Thousands,,,15538.0,,
+KOR,Korea,HOUSEHOLD,Waste from households,2008,2008,TONNE,Tonnes,3,Thousands,,,15428.0,,
+KOR,Korea,HOUSEHOLD,Waste from households,2009,2009,TONNE,Tonnes,3,Thousands,,,15361.0,,
+KOR,Korea,HOUSEHOLD,Waste from households,2010,2010,TONNE,Tonnes,3,Thousands,,,14936.0,,
+KOR,Korea,HOUSEHOLD,Waste from households,2011,2011,TONNE,Tonnes,3,Thousands,,,14944.0,,
+KOR,Korea,HOUSEHOLD,Waste from households,2012,2012,TONNE,Tonnes,3,Thousands,,,15200.0,,
+KOR,Korea,HOUSEHOLD,Waste from households,2013,2013,TONNE,Tonnes,3,Thousands,,,14798.0,,
+KOR,Korea,HOUSEHOLD,Waste from households,2014,2014,TONNE,Tonnes,3,Thousands,,,15460.0,,
+KOR,Korea,HOUSEHOLD,Waste from households,2015,2015,TONNE,Tonnes,3,Thousands,,,15845.0,,
+KOR,Korea,HOUSEHOLD,Waste from households,2016,2016,TONNE,Tonnes,3,Thousands,,,16593.0,,
+KOR,Korea,HOUSEHOLD,Waste from households,2017,2017,TONNE,Tonnes,3,Thousands,,,16428.249,,
+KOR,Korea,HOUSEHOLD,Waste from households,2018,2018,TONNE,Tonnes,3,Thousands,,,17063.495,,
+KOR,Korea,HOUSEHOLD,Waste from households,2019,2019,TONNE,Tonnes,3,Thousands,,,16757.92,,
+LUX,Luxembourg,HOUSEHOLD,Waste from households,1992,1992,TONNE,Tonnes,3,Thousands,,,97.61,,
+LUX,Luxembourg,HOUSEHOLD,Waste from households,1993,1993,TONNE,Tonnes,3,Thousands,,,99.02,,
+LUX,Luxembourg,HOUSEHOLD,Waste from households,1994,1994,TONNE,Tonnes,3,Thousands,,,100.43,B,Break
+LUX,Luxembourg,HOUSEHOLD,Waste from households,1995,1995,TONNE,Tonnes,3,Thousands,,,193.33,,
+LUX,Luxembourg,HOUSEHOLD,Waste from households,1996,1996,TONNE,Tonnes,3,Thousands,,,197.82,,
+LUX,Luxembourg,HOUSEHOLD,Waste from households,1997,1997,TONNE,Tonnes,3,Thousands,,,207.14,,
+LUX,Luxembourg,HOUSEHOLD,Waste from households,1998,1998,TONNE,Tonnes,3,Thousands,,,211.77,,
+LUX,Luxembourg,HOUSEHOLD,Waste from households,1999,1999,TONNE,Tonnes,3,Thousands,,,224.49,,
+LUX,Luxembourg,HOUSEHOLD,Waste from households,2000,2000,TONNE,Tonnes,3,Thousands,,,238.85,,
+LUX,Luxembourg,HOUSEHOLD,Waste from households,2001,2001,TONNE,Tonnes,3,Thousands,,,239.98,,
+LUX,Luxembourg,HOUSEHOLD,Waste from households,2002,2002,TONNE,Tonnes,3,Thousands,,,244.75,,
+LUX,Luxembourg,HOUSEHOLD,Waste from households,2003,2003,TONNE,Tonnes,3,Thousands,,,261.29,,
+LUX,Luxembourg,HOUSEHOLD,Waste from households,2004,2004,TONNE,Tonnes,3,Thousands,,,265.93,,
+LUX,Luxembourg,HOUSEHOLD,Waste from households,2005,2005,TONNE,Tonnes,3,Thousands,,,268.81,,
+LUX,Luxembourg,HOUSEHOLD,Waste from households,2006,2006,TONNE,Tonnes,3,Thousands,,,275.94,,
+LUX,Luxembourg,HOUSEHOLD,Waste from households,2007,2007,TONNE,Tonnes,3,Thousands,,,287.67,,
+LUX,Luxembourg,HOUSEHOLD,Waste from households,2008,2008,TONNE,Tonnes,3,Thousands,,,295.15,,
+LUX,Luxembourg,HOUSEHOLD,Waste from households,2009,2009,TONNE,Tonnes,3,Thousands,,,293.8,,
+LUX,Luxembourg,HOUSEHOLD,Waste from households,2010,2010,TONNE,Tonnes,3,Thousands,,,300.01,,
+LUX,Luxembourg,HOUSEHOLD,Waste from households,2011,2011,TONNE,Tonnes,3,Thousands,,,300.99,,
+LUX,Luxembourg,HOUSEHOLD,Waste from households,2012,2012,TONNE,Tonnes,3,Thousands,,,304.11,,
+LUX,Luxembourg,HOUSEHOLD,Waste from households,2013,2013,TONNE,Tonnes,3,Thousands,,,293.29,,
+LUX,Luxembourg,HOUSEHOLD,Waste from households,2014,2014,TONNE,Tonnes,3,Thousands,,,306.14,,
+LUX,Luxembourg,HOUSEHOLD,Waste from households,2015,2015,TONNE,Tonnes,3,Thousands,,,305.59,,
+LUX,Luxembourg,HOUSEHOLD,Waste from households,2016,2016,TONNE,Tonnes,3,Thousands,,,316.919,B,Break
+LUX,Luxembourg,HOUSEHOLD,Waste from households,2017,2017,TONNE,Tonnes,3,Thousands,,,316.583,,
+LUX,Luxembourg,HOUSEHOLD,Waste from households,2018,2018,TONNE,Tonnes,3,Thousands,,,319.498,,
+LUX,Luxembourg,HOUSEHOLD,Waste from households,2019,2019,TONNE,Tonnes,3,Thousands,,,321.063,E,Estimated value
+LUX,Luxembourg,HOUSEHOLD,Waste from households,2020,2020,TONNE,Tonnes,3,Thousands,,,379.423,,
+MEX,Mexico,HOUSEHOLD,Waste from households,1991,1991,TONNE,Tonnes,3,Thousands,,,16849.86,,
+MEX,Mexico,HOUSEHOLD,Waste from households,1992,1992,TONNE,Tonnes,3,Thousands,,,17574.02,,
+MEX,Mexico,HOUSEHOLD,Waste from households,1993,1993,TONNE,Tonnes,3,Thousands,,,22471.6,,
+MEX,Mexico,HOUSEHOLD,Waste from households,1994,1994,TONNE,Tonnes,3,Thousands,,,23578.0,,
+MEX,Mexico,HOUSEHOLD,Waste from households,1995,1995,TONNE,Tonnes,3,Thousands,,,24407.0,,
+MEX,Mexico,HOUSEHOLD,Waste from households,1996,1996,TONNE,Tonnes,3,Thousands,,,25567.0,,
+MEX,Mexico,HOUSEHOLD,Waste from households,1997,1997,TONNE,Tonnes,3,Thousands,,,23418.0,,
+MEX,Mexico,HOUSEHOLD,Waste from households,1998,1998,TONNE,Tonnes,3,Thousands,,,23500.0,,
+MEX,Mexico,HOUSEHOLD,Waste from households,1999,1999,TONNE,Tonnes,3,Thousands,,,23809.0,,
+MEX,Mexico,HOUSEHOLD,Waste from households,2000,2000,TONNE,Tonnes,3,Thousands,,,23641.0,,
+MEX,Mexico,HOUSEHOLD,Waste from households,2001,2001,TONNE,Tonnes,3,Thousands,,,24233.0,,
+MEX,Mexico,HOUSEHOLD,Waste from households,2002,2002,TONNE,Tonnes,3,Thousands,,,24760.0,,
+MEX,Mexico,HOUSEHOLD,Waste from households,2003,2003,TONNE,Tonnes,3,Thousands,,,25331.0,,
+MEX,Mexico,HOUSEHOLD,Waste from households,2004,2004,TONNE,Tonnes,3,Thousands,,,26630.0,,
+MEX,Mexico,HOUSEHOLD,Waste from households,2005,2005,TONNE,Tonnes,3,Thousands,,,27242.0,,
+MEX,Mexico,HOUSEHOLD,Waste from households,2006,2006,TONNE,Tonnes,3,Thousands,,,27809.0,,
+MEX,Mexico,HOUSEHOLD,Waste from households,2007,2007,TONNE,Tonnes,3,Thousands,,,28370.8,,
+MEX,Mexico,HOUSEHOLD,Waste from households,2008,2008,TONNE,Tonnes,3,Thousands,,,28950.0,,
+MEX,Mexico,HOUSEHOLD,Waste from households,2009,2009,TONNE,Tonnes,3,Thousands,,,29512.1,,
+MEX,Mexico,HOUSEHOLD,Waste from households,2010,2010,TONNE,Tonnes,3,Thousands,,,30845.24,,
+MEX,Mexico,HOUSEHOLD,Waste from households,2011,2011,TONNE,Tonnes,3,Thousands,,,31618.13,,
+MEX,Mexico,HOUSEHOLD,Waste from households,2012,2012,TONNE,Tonnes,3,Thousands,,,32419.118,,
+NLD,Netherlands,HOUSEHOLD,Waste from households,1990,1990,TONNE,Tonnes,3,Thousands,,,6195.0,,
+NLD,Netherlands,HOUSEHOLD,Waste from households,1991,1991,TONNE,Tonnes,3,Thousands,,,5947.0,,
+NLD,Netherlands,HOUSEHOLD,Waste from households,1993,1993,TONNE,Tonnes,3,Thousands,,,6913.0,,
+NLD,Netherlands,HOUSEHOLD,Waste from households,1994,1994,TONNE,Tonnes,3,Thousands,,,7001.0,,
+NLD,Netherlands,HOUSEHOLD,Waste from households,1995,1995,TONNE,Tonnes,3,Thousands,,,7102.0,,
+NLD,Netherlands,HOUSEHOLD,Waste from households,1996,1996,TONNE,Tonnes,3,Thousands,,,7316.0,,
+NLD,Netherlands,HOUSEHOLD,Waste from households,1997,1997,TONNE,Tonnes,3,Thousands,,,7697.0,,
+NLD,Netherlands,HOUSEHOLD,Waste from households,1998,1998,TONNE,Tonnes,3,Thousands,,,7840.0,,
+NLD,Netherlands,HOUSEHOLD,Waste from households,1999,1999,TONNE,Tonnes,3,Thousands,,,8105.0,,
+NLD,Netherlands,HOUSEHOLD,Waste from households,2000,2000,TONNE,Tonnes,3,Thousands,,,8361.0,,
+NLD,Netherlands,HOUSEHOLD,Waste from households,2001,2001,TONNE,Tonnes,3,Thousands,,,8373.0,,
+NLD,Netherlands,HOUSEHOLD,Waste from households,2002,2002,TONNE,Tonnes,3,Thousands,,,8460.0,,
+NLD,Netherlands,HOUSEHOLD,Waste from households,2003,2003,TONNE,Tonnes,3,Thousands,,,8343.0,,
+NLD,Netherlands,HOUSEHOLD,Waste from households,2004,2004,TONNE,Tonnes,3,Thousands,,,8577.0,,
+NLD,Netherlands,HOUSEHOLD,Waste from households,2005,2005,TONNE,Tonnes,3,Thousands,,,8612.0,,
+NLD,Netherlands,HOUSEHOLD,Waste from households,2006,2006,TONNE,Tonnes,3,Thousands,,,8637.0,,
+NLD,Netherlands,HOUSEHOLD,Waste from households,2007,2007,TONNE,Tonnes,3,Thousands,,,8771.0,,
+NLD,Netherlands,HOUSEHOLD,Waste from households,2008,2008,TONNE,Tonnes,3,Thousands,,,8722.0,,
+NLD,Netherlands,HOUSEHOLD,Waste from households,2009,2009,TONNE,Tonnes,3,Thousands,,,8569.0,,
+NLD,Netherlands,HOUSEHOLD,Waste from households,2010,2010,TONNE,Tonnes,3,Thousands,,,8373.0,,
+NLD,Netherlands,HOUSEHOLD,Waste from households,2011,2011,TONNE,Tonnes,3,Thousands,,,8325.0,,
+NLD,Netherlands,HOUSEHOLD,Waste from households,2012,2012,TONNE,Tonnes,3,Thousands,,,8132.0,,
+NLD,Netherlands,HOUSEHOLD,Waste from households,2013,2013,TONNE,Tonnes,3,Thousands,,,7786.0,,
+NLD,Netherlands,HOUSEHOLD,Waste from households,2014,2014,TONNE,Tonnes,3,Thousands,,,7851.0,,
+NLD,Netherlands,HOUSEHOLD,Waste from households,2015,2015,TONNE,Tonnes,3,Thousands,,,7827.0,,
+NLD,Netherlands,HOUSEHOLD,Waste from households,2016,2016,TONNE,Tonnes,3,Thousands,,,7853.0,,
+NLD,Netherlands,HOUSEHOLD,Waste from households,2017,2017,TONNE,Tonnes,3,Thousands,,,7839.0,,
+NLD,Netherlands,HOUSEHOLD,Waste from households,2018,2018,TONNE,Tonnes,3,Thousands,,,7844.0,,
+NLD,Netherlands,HOUSEHOLD,Waste from households,2019,2019,TONNE,Tonnes,3,Thousands,,,7855.0,,
+NLD,Netherlands,HOUSEHOLD,Waste from households,2020,2020,TONNE,Tonnes,3,Thousands,,,8386.0,,
+NOR,Norway,HOUSEHOLD,Waste from households,1990,1990,TONNE,Tonnes,3,Thousands,,,800.0,,
+NOR,Norway,HOUSEHOLD,Waste from households,1992,1992,TONNE,Tonnes,3,Thousands,,,1012.2,,
+NOR,Norway,HOUSEHOLD,Waste from households,1993,1993,TONNE,Tonnes,3,Thousands,,,1097.0,,
+NOR,Norway,HOUSEHOLD,Waste from households,1994,1994,TONNE,Tonnes,3,Thousands,,,1096.0,,
+NOR,Norway,HOUSEHOLD,Waste from households,1995,1995,TONNE,Tonnes,3,Thousands,,,1173.6,,
+NOR,Norway,HOUSEHOLD,Waste from households,1996,1996,TONNE,Tonnes,3,Thousands,,,1195.3,,
+NOR,Norway,HOUSEHOLD,Waste from households,1997,1997,TONNE,Tonnes,3,Thousands,,,1259.3,,
+NOR,Norway,HOUSEHOLD,Waste from households,1998,1998,TONNE,Tonnes,3,Thousands,,,1363.9,,
+NOR,Norway,HOUSEHOLD,Waste from households,1999,1999,TONNE,Tonnes,3,Thousands,,,1396.7,,
+NOR,Norway,HOUSEHOLD,Waste from households,2000,2000,TONNE,Tonnes,3,Thousands,,,1451.6,,
+NOR,Norway,HOUSEHOLD,Waste from households,2001,2001,TONNE,Tonnes,3,Thousands,,,1506.7,,
+NOR,Norway,HOUSEHOLD,Waste from households,2002,2002,TONNE,Tonnes,3,Thousands,,,1612.7,,
+NOR,Norway,HOUSEHOLD,Waste from households,2003,2003,TONNE,Tonnes,3,Thousands,,,1670.6,,
+NOR,Norway,HOUSEHOLD,Waste from households,2004,2004,TONNE,Tonnes,3,Thousands,,,1746.4,,
+NOR,Norway,HOUSEHOLD,Waste from households,2005,2005,TONNE,Tonnes,3,Thousands,,,1843.7,,
+NOR,Norway,HOUSEHOLD,Waste from households,2006,2006,TONNE,Tonnes,3,Thousands,,,1939.8,,
+NOR,Norway,HOUSEHOLD,Waste from households,2007,2007,TONNE,Tonnes,3,Thousands,,,2034.0,,
+NOR,Norway,HOUSEHOLD,Waste from households,2008,2008,TONNE,Tonnes,3,Thousands,,,2079.0,,
+NOR,Norway,HOUSEHOLD,Waste from households,2009,2009,TONNE,Tonnes,3,Thousands,,,2039.0,,
+NOR,Norway,HOUSEHOLD,Waste from households,2010,2010,TONNE,Tonnes,3,Thousands,,,2088.0,,
+NOR,Norway,HOUSEHOLD,Waste from households,2011,2011,TONNE,Tonnes,3,Thousands,,,2183.0,,
+NOR,Norway,HOUSEHOLD,Waste from households,2012,2012,TONNE,Tonnes,3,Thousands,,,2172.0,,
+NOR,Norway,HOUSEHOLD,Waste from households,2013,2013,TONNE,Tonnes,3,Thousands,,,2255.0,,
+NOR,Norway,HOUSEHOLD,Waste from households,2014,2014,TONNE,Tonnes,3,Thousands,,,1989.41,B,Break
+NOR,Norway,HOUSEHOLD,Waste from households,2015,2015,TONNE,Tonnes,3,Thousands,,,2004.98,,
+NOR,Norway,HOUSEHOLD,Waste from households,2016,2016,TONNE,Tonnes,3,Thousands,,,1993.24,B,Break
+NOR,Norway,HOUSEHOLD,Waste from households,2017,2017,TONNE,Tonnes,3,Thousands,,,1971.84,,
+NOR,Norway,HOUSEHOLD,Waste from households,2018,2018,TONNE,Tonnes,3,Thousands,,,1908.96,,
+NOR,Norway,HOUSEHOLD,Waste from households,2019,2019,TONNE,Tonnes,3,Thousands,,,1934.827,,
+NOR,Norway,HOUSEHOLD,Waste from households,2020,2020,TONNE,Tonnes,3,Thousands,,,2300.76,,
+POL,Poland,HOUSEHOLD,Waste from households,1990,1990,TONNE,Tonnes,3,Thousands,,,7253.0,,
+POL,Poland,HOUSEHOLD,Waste from households,1991,1991,TONNE,Tonnes,3,Thousands,,,6896.0,,
+POL,Poland,HOUSEHOLD,Waste from households,1992,1992,TONNE,Tonnes,3,Thousands,,,7122.0,,
+POL,Poland,HOUSEHOLD,Waste from households,1993,1993,TONNE,Tonnes,3,Thousands,,,7138.0,,
+POL,Poland,HOUSEHOLD,Waste from households,1994,1994,TONNE,Tonnes,3,Thousands,,,7598.0,,
+POL,Poland,HOUSEHOLD,Waste from households,1995,1995,TONNE,Tonnes,3,Thousands,,,7645.0,,
+POL,Poland,HOUSEHOLD,Waste from households,1996,1996,TONNE,Tonnes,3,Thousands,,,8265.0,,
+POL,Poland,HOUSEHOLD,Waste from households,1997,1997,TONNE,Tonnes,3,Thousands,,,8169.0,,
+POL,Poland,HOUSEHOLD,Waste from households,1998,1998,TONNE,Tonnes,3,Thousands,,,8076.0,,
+POL,Poland,HOUSEHOLD,Waste from households,1999,1999,TONNE,Tonnes,3,Thousands,,,8343.0,,
+POL,Poland,HOUSEHOLD,Waste from households,2000,2000,TONNE,Tonnes,3,Thousands,,,8480.0,,
+POL,Poland,HOUSEHOLD,Waste from households,2001,2001,TONNE,Tonnes,3,Thousands,,,8048.0,,
+POL,Poland,HOUSEHOLD,Waste from households,2002,2002,TONNE,Tonnes,3,Thousands,,,7617.0,,
+POL,Poland,HOUSEHOLD,Waste from households,2003,2003,TONNE,Tonnes,3,Thousands,,,6979.0,,
+POL,Poland,HOUSEHOLD,Waste from households,2004,2004,TONNE,Tonnes,3,Thousands,,,6768.0,,
+POL,Poland,HOUSEHOLD,Waste from households,2014,2014,TONNE,Tonnes,3,Thousands,,,8240.0,E; B,Estimated value; Break
+POL,Poland,HOUSEHOLD,Waste from households,2015,2015,TONNE,Tonnes,3,Thousands,,,8889.0,E,Estimated value
+POL,Poland,HOUSEHOLD,Waste from households,2016,2016,TONNE,Tonnes,3,Thousands,,,9564.497,E,Estimated value
+POL,Poland,HOUSEHOLD,Waste from households,2017,2017,TONNE,Tonnes,3,Thousands,,,9971.22,E,Estimated value
+POL,Poland,HOUSEHOLD,Waste from households,2018,2018,TONNE,Tonnes,3,Thousands,,,10445.808,,
+POL,Poland,HOUSEHOLD,Waste from households,2019,2019,TONNE,Tonnes,3,Thousands,,,10776.432,,
+POL,Poland,HOUSEHOLD,Waste from households,2020,2020,TONNE,Tonnes,3,Thousands,,,11288.283,,
+SVK,Slovak Republic,HOUSEHOLD,Waste from households,1995,1995,TONNE,Tonnes,3,Thousands,,,994.7,,
+SVK,Slovak Republic,HOUSEHOLD,Waste from households,1996,1996,TONNE,Tonnes,3,Thousands,,,1070.29,,
+SVK,Slovak Republic,HOUSEHOLD,Waste from households,1997,1997,TONNE,Tonnes,3,Thousands,,,992.28,,
+SVK,Slovak Republic,HOUSEHOLD,Waste from households,1998,1998,TONNE,Tonnes,3,Thousands,,,931.51,,
+SVK,Slovak Republic,HOUSEHOLD,Waste from households,1999,1999,TONNE,Tonnes,3,Thousands,,,950.83,,
+SVK,Slovak Republic,HOUSEHOLD,Waste from households,2000,2000,TONNE,Tonnes,3,Thousands,,,953.11,,
+SVK,Slovak Republic,HOUSEHOLD,Waste from households,2001,2001,TONNE,Tonnes,3,Thousands,,,863.2,,
+SVK,Slovak Republic,HOUSEHOLD,Waste from households,2002,2002,TONNE,Tonnes,3,Thousands,,,1195.66,,
+SVK,Slovak Republic,HOUSEHOLD,Waste from households,2003,2003,TONNE,Tonnes,3,Thousands,,,1261.36,B,Break
+SVK,Slovak Republic,HOUSEHOLD,Waste from households,2004,2004,TONNE,Tonnes,3,Thousands,,,1219.07,,
+SVK,Slovak Republic,HOUSEHOLD,Waste from households,2005,2005,TONNE,Tonnes,3,Thousands,,,1248.38,,
+SVK,Slovak Republic,HOUSEHOLD,Waste from households,2006,2006,TONNE,Tonnes,3,Thousands,,,1294.18,,
+SVK,Slovak Republic,HOUSEHOLD,Waste from households,2007,2007,TONNE,Tonnes,3,Thousands,,,1328.48,,
+SVK,Slovak Republic,HOUSEHOLD,Waste from households,2008,2008,TONNE,Tonnes,3,Thousands,,,1413.1,,
+SVK,Slovak Republic,HOUSEHOLD,Waste from households,2009,2009,TONNE,Tonnes,3,Thousands,,,1400.75,,
+SVK,Slovak Republic,HOUSEHOLD,Waste from households,2010,2010,TONNE,Tonnes,3,Thousands,,,1418.88,,
+SVK,Slovak Republic,HOUSEHOLD,Waste from households,2011,2011,TONNE,Tonnes,3,Thousands,,,1394.44,,
+SVK,Slovak Republic,HOUSEHOLD,Waste from households,2012,2012,TONNE,Tonnes,3,Thousands,,,1349.79,,
+SVK,Slovak Republic,HOUSEHOLD,Waste from households,2013,2013,TONNE,Tonnes,3,Thousands,,,1336.03,,
+SVK,Slovak Republic,HOUSEHOLD,Waste from households,2014,2014,TONNE,Tonnes,3,Thousands,,,1358.24,,
+SVK,Slovak Republic,HOUSEHOLD,Waste from households,2015,2015,TONNE,Tonnes,3,Thousands,,,1386.67,,
+SVK,Slovak Republic,HOUSEHOLD,Waste from households,2016,2016,TONNE,Tonnes,3,Thousands,,,1378.72,,
+SVK,Slovak Republic,HOUSEHOLD,Waste from households,2017,2017,TONNE,Tonnes,3,Thousands,,,1374.52,,
+SVK,Slovak Republic,HOUSEHOLD,Waste from households,2018,2018,TONNE,Tonnes,3,Thousands,,,1387.23,,
+SVK,Slovak Republic,HOUSEHOLD,Waste from households,2019,2019,TONNE,Tonnes,3,Thousands,,,1377.745,,
+SVK,Slovak Republic,HOUSEHOLD,Waste from households,2020,2020,TONNE,Tonnes,3,Thousands,,,1336.614,,
+SWE,Sweden,HOUSEHOLD,Waste from households,2019,2019,TONNE,Tonnes,3,Thousands,,,3705.89,,
+SWE,Sweden,HOUSEHOLD,Waste from households,2020,2020,TONNE,Tonnes,3,Thousands,,,3775.526,E; B,Estimated value; Break
+CHE,Switzerland,HOUSEHOLD,Waste from households,1990,1990,TONNE,Tonnes,3,Thousands,,,2733.7,E,Estimated value
+CHE,Switzerland,HOUSEHOLD,Waste from households,1991,1991,TONNE,Tonnes,3,Thousands,,,2754.1,E,Estimated value
+CHE,Switzerland,HOUSEHOLD,Waste from households,1992,1992,TONNE,Tonnes,3,Thousands,,,2731.1,E,Estimated value
+CHE,Switzerland,HOUSEHOLD,Waste from households,1993,1993,TONNE,Tonnes,3,Thousands,,,2760.2,E,Estimated value
+CHE,Switzerland,HOUSEHOLD,Waste from households,1994,1994,TONNE,Tonnes,3,Thousands,,,2774.3,E,Estimated value
+CHE,Switzerland,HOUSEHOLD,Waste from households,1995,1995,TONNE,Tonnes,3,Thousands,,,2502.0,E,Estimated value
+CHE,Switzerland,HOUSEHOLD,Waste from households,1996,1996,TONNE,Tonnes,3,Thousands,,,2525.0,E,Estimated value
+CHE,Switzerland,HOUSEHOLD,Waste from households,1997,1997,TONNE,Tonnes,3,Thousands,,,2533.0,E,Estimated value
+CHE,Switzerland,HOUSEHOLD,Waste from households,1998,1998,TONNE,Tonnes,3,Thousands,,,2578.0,E,Estimated value
+CHE,Switzerland,HOUSEHOLD,Waste from households,1999,1999,TONNE,Tonnes,3,Thousands,,,2687.0,E,Estimated value
+CHE,Switzerland,HOUSEHOLD,Waste from households,2000,2000,TONNE,Tonnes,3,Thousands,,,2791.0,E,Estimated value
+CHE,Switzerland,HOUSEHOLD,Waste from households,2001,2001,TONNE,Tonnes,3,Thousands,,,2828.0,E,Estimated value
+CHE,Switzerland,HOUSEHOLD,Waste from households,2002,2002,TONNE,Tonnes,3,Thousands,,,2912.0,E,Estimated value
+CHE,Switzerland,HOUSEHOLD,Waste from households,2003,2003,TONNE,Tonnes,3,Thousands,,,2900.0,E,Estimated value
+CHE,Switzerland,HOUSEHOLD,Waste from households,2004,2004,TONNE,Tonnes,3,Thousands,,,2891.0,E,Estimated value
+CHE,Switzerland,HOUSEHOLD,Waste from households,2005,2005,TONNE,Tonnes,3,Thousands,,,2915.0,E,Estimated value
+CHE,Switzerland,HOUSEHOLD,Waste from households,2006,2006,TONNE,Tonnes,3,Thousands,,,3145.0,E,Estimated value
+CHE,Switzerland,HOUSEHOLD,Waste from households,2007,2007,TONNE,Tonnes,3,Thousands,,,3224.0,E,Estimated value
+CHE,Switzerland,HOUSEHOLD,Waste from households,2008,2008,TONNE,Tonnes,3,Thousands,,,3335.0,E,Estimated value
+CHE,Switzerland,HOUSEHOLD,Waste from households,2009,2009,TONNE,Tonnes,3,Thousands,,,3222.0,E,Estimated value
+CHE,Switzerland,HOUSEHOLD,Waste from households,2010,2010,TONNE,Tonnes,3,Thousands,,,3283.0,E,Estimated value
+CHE,Switzerland,HOUSEHOLD,Waste from households,2011,2011,TONNE,Tonnes,3,Thousands,,,3232.0,E,Estimated value
+CHE,Switzerland,HOUSEHOLD,Waste from households,2012,2012,TONNE,Tonnes,3,Thousands,,,3178.0,E,Estimated value
+CHE,Switzerland,HOUSEHOLD,Waste from households,2013,2013,TONNE,Tonnes,3,Thousands,,,3196.0,E,Estimated value
+CHE,Switzerland,HOUSEHOLD,Waste from households,2014,2014,TONNE,Tonnes,3,Thousands,,,3363.0,E,Estimated value
+CHE,Switzerland,HOUSEHOLD,Waste from households,2015,2015,TONNE,Tonnes,3,Thousands,,,3376.0,E,Estimated value
+CHE,Switzerland,HOUSEHOLD,Waste from households,2016,2016,TONNE,Tonnes,3,Thousands,,,3388.0,E,Estimated value
+CHE,Switzerland,HOUSEHOLD,Waste from households,2017,2017,TONNE,Tonnes,3,Thousands,,,3356.0,E,Estimated value
+CHE,Switzerland,HOUSEHOLD,Waste from households,2018,2018,TONNE,Tonnes,3,Thousands,,,3367.0,E,Estimated value
+CHE,Switzerland,HOUSEHOLD,Waste from households,2019,2019,TONNE,Tonnes,3,Thousands,,,3404.0,E,Estimated value
+CHE,Switzerland,HOUSEHOLD,Waste from households,2020,2020,TONNE,Tonnes,3,Thousands,,,3683.0,E,Estimated value
+GBR,United Kingdom,HOUSEHOLD,Waste from households,1990,1990,TONNE,Tonnes,3,Thousands,,,20000.0,,
+GBR,United Kingdom,HOUSEHOLD,Waste from households,1995,1995,TONNE,Tonnes,3,Thousands,,,27000.0,B,Break
+GBR,United Kingdom,HOUSEHOLD,Waste from households,1996,1996,TONNE,Tonnes,3,Thousands,,,27315.0,,
+GBR,United Kingdom,HOUSEHOLD,Waste from households,1997,1997,TONNE,Tonnes,3,Thousands,,,27825.0,,
+GBR,United Kingdom,HOUSEHOLD,Waste from households,1998,1998,TONNE,Tonnes,3,Thousands,,,28256.0,,
+GBR,United Kingdom,HOUSEHOLD,Waste from households,1999,1999,TONNE,Tonnes,3,Thousands,,,29665.0,,
+GBR,United Kingdom,HOUSEHOLD,Waste from households,2000,2000,TONNE,Tonnes,3,Thousands,,,29911.0,,
+GBR,United Kingdom,HOUSEHOLD,Waste from households,2001,2001,TONNE,Tonnes,3,Thousands,,,30513.0,,
+GBR,United Kingdom,HOUSEHOLD,Waste from households,2002,2002,TONNE,Tonnes,3,Thousands,,,30909.0,,
+GBR,United Kingdom,HOUSEHOLD,Waste from households,2003,2003,TONNE,Tonnes,3,Thousands,,,30857.3,E,Estimated value
+GBR,United Kingdom,HOUSEHOLD,Waste from households,2004,2004,TONNE,Tonnes,3,Thousands,,,30990.0,,
+GBR,United Kingdom,HOUSEHOLD,Waste from households,2005,2005,TONNE,Tonnes,3,Thousands,,,30467.5,E,Estimated value
+GBR,United Kingdom,HOUSEHOLD,Waste from households,2006,2006,TONNE,Tonnes,3,Thousands,,,30749.8,E,Estimated value
+GBR,United Kingdom,HOUSEHOLD,Waste from households,2007,2007,TONNE,Tonnes,3,Thousands,,,30759.0,,
+GBR,United Kingdom,HOUSEHOLD,Waste from households,2008,2008,TONNE,Tonnes,3,Thousands,,,29559.8,E,Estimated value
+GBR,United Kingdom,HOUSEHOLD,Waste from households,2009,2009,TONNE,Tonnes,3,Thousands,,,28831.0,E,Estimated value
+GBR,United Kingdom,HOUSEHOLD,Waste from households,2010,2010,TONNE,Tonnes,3,Thousands,,,22216.03,,
+GBR,United Kingdom,HOUSEHOLD,Waste from households,2011,2011,TONNE,Tonnes,3,Thousands,,,22287.94,,
+GBR,United Kingdom,HOUSEHOLD,Waste from households,2012,2012,TONNE,Tonnes,3,Thousands,,,26158.809,,
+GBR,United Kingdom,HOUSEHOLD,Waste from households,2013,2013,TONNE,Tonnes,3,Thousands,,,26379.534,,
+GBR,United Kingdom,HOUSEHOLD,Waste from households,2014,2014,TONNE,Tonnes,3,Thousands,,,26675.972,,
+GBR,United Kingdom,HOUSEHOLD,Waste from households,2015,2015,TONNE,Tonnes,3,Thousands,,,27037.582,,
+GBR,United Kingdom,HOUSEHOLD,Waste from households,2016,2016,TONNE,Tonnes,3,Thousands,,,27325.273,,
+GBR,United Kingdom,HOUSEHOLD,Waste from households,2017,2017,TONNE,Tonnes,3,Thousands,,,26739.022,,
+GBR,United Kingdom,HOUSEHOLD,Waste from households,2018,2018,TONNE,Tonnes,3,Thousands,,,26575.841,,
+GBR,United Kingdom,HOUSEHOLD,Waste from households,2019,2019,TONNE,Tonnes,3,Thousands,,,26543.517,,
+GBR,United Kingdom,HOUSEHOLD,Waste from households,2020,2020,TONNE,Tonnes,3,Thousands,,,27485.076,,
+USA,United States,HOUSEHOLD,Waste from households,1990,1990,TONNE,Tonnes,3,Thousands,,,113363.0,,
+USA,United States,HOUSEHOLD,Waste from households,1995,1995,TONNE,Tonnes,3,Thousands,,,118268.0,,
+USA,United States,HOUSEHOLD,Waste from households,1996,1996,TONNE,Tonnes,3,Thousands,,,117566.0,,
+USA,United States,HOUSEHOLD,Waste from households,1997,1997,TONNE,Tonnes,3,Thousands,,,121436.0,,
+USA,United States,HOUSEHOLD,Waste from households,1998,1998,TONNE,Tonnes,3,Thousands,,,123624.0,,
+USA,United States,HOUSEHOLD,Waste from households,1999,1999,TONNE,Tonnes,3,Thousands,,,127848.0,,
+USA,United States,HOUSEHOLD,Waste from households,2000,2000,TONNE,Tonnes,3,Thousands,,,132512.0,,
+USA,United States,HOUSEHOLD,Waste from households,2001,2001,TONNE,Tonnes,3,Thousands,,,131070.0,,
+USA,United States,HOUSEHOLD,Waste from households,2002,2002,TONNE,Tonnes,3,Thousands,,,133536.0,,
+USA,United States,HOUSEHOLD,Waste from households,2003,2003,TONNE,Tonnes,3,Thousands,,,134129.0,,
+USA,United States,HOUSEHOLD,Waste from households,2004,2004,TONNE,Tonnes,3,Thousands,,,138320.0,,
+USA,United States,HOUSEHOLD,Waste from households,2005,2005,TONNE,Tonnes,3,Thousands,,,138108.0,,
+USA,United States,HOUSEHOLD,Waste from households,2006,2006,TONNE,Tonnes,3,Thousands,,,139942.0,,
+USA,United States,HOUSEHOLD,Waste from households,2007,2007,TONNE,Tonnes,3,Thousands,,,139616.0,,
+USA,United States,HOUSEHOLD,Waste from households,2008,2008,TONNE,Tonnes,3,Thousands,,,137520.0,,
+USA,United States,HOUSEHOLD,Waste from households,2009,2009,TONNE,Tonnes,3,Thousands,,,133313.0,,
+USA,United States,HOUSEHOLD,Waste from households,2010,2010,TONNE,Tonnes,3,Thousands,,,136649.0,,
+EST,Estonia,HOUSEHOLD,Waste from households,2004,2004,TONNE,Tonnes,3,Thousands,,,210.84,,
+EST,Estonia,HOUSEHOLD,Waste from households,2005,2005,TONNE,Tonnes,3,Thousands,,,186.73,,
+EST,Estonia,HOUSEHOLD,Waste from households,2006,2006,TONNE,Tonnes,3,Thousands,,,186.66,,
+EST,Estonia,HOUSEHOLD,Waste from households,2007,2007,TONNE,Tonnes,3,Thousands,,,219.9,,
+EST,Estonia,HOUSEHOLD,Waste from households,2008,2008,TONNE,Tonnes,3,Thousands,,,223.71,,
+EST,Estonia,HOUSEHOLD,Waste from households,2009,2009,TONNE,Tonnes,3,Thousands,,,208.44,,
+EST,Estonia,HOUSEHOLD,Waste from households,2010,2010,TONNE,Tonnes,3,Thousands,,,203.01,,
+EST,Estonia,HOUSEHOLD,Waste from households,2011,2011,TONNE,Tonnes,3,Thousands,,,204.27,,
+EST,Estonia,HOUSEHOLD,Waste from households,2012,2012,TONNE,Tonnes,3,Thousands,,,201.49,,
+EST,Estonia,HOUSEHOLD,Waste from households,2013,2013,TONNE,Tonnes,3,Thousands,,,176.18,,
+EST,Estonia,HOUSEHOLD,Waste from households,2014,2014,TONNE,Tonnes,3,Thousands,,,194.0,,
+EST,Estonia,HOUSEHOLD,Waste from households,2015,2015,TONNE,Tonnes,3,Thousands,,,246.0,,
+EST,Estonia,HOUSEHOLD,Waste from households,2016,2016,TONNE,Tonnes,3,Thousands,,,265.0,,
+EST,Estonia,HOUSEHOLD,Waste from households,2017,2017,TONNE,Tonnes,3,Thousands,,,282.33,,
+EST,Estonia,HOUSEHOLD,Waste from households,2018,2018,TONNE,Tonnes,3,Thousands,,,293.34,,
+EST,Estonia,HOUSEHOLD,Waste from households,2019,2019,TONNE,Tonnes,3,Thousands,,,274.293,,
+EST,Estonia,HOUSEHOLD,Waste from households,2020,2020,TONNE,Tonnes,3,Thousands,,,292.625,,
+SVN,Slovenia,HOUSEHOLD,Waste from households,2002,2002,TONNE,Tonnes,3,Thousands,,,552.7,,
+SVN,Slovenia,HOUSEHOLD,Waste from households,2003,2003,TONNE,Tonnes,3,Thousands,,,565.9,,
+SVN,Slovenia,HOUSEHOLD,Waste from households,2004,2004,TONNE,Tonnes,3,Thousands,,,587.7,,
+SVN,Slovenia,HOUSEHOLD,Waste from households,2005,2005,TONNE,Tonnes,3,Thousands,,,608.5,,
+SVN,Slovenia,HOUSEHOLD,Waste from households,2006,2006,TONNE,Tonnes,3,Thousands,,,623.2,,
+SVN,Slovenia,HOUSEHOLD,Waste from households,2007,2007,TONNE,Tonnes,3,Thousands,,,653.1,,
+SVN,Slovenia,HOUSEHOLD,Waste from households,2008,2008,TONNE,Tonnes,3,Thousands,,,643.4,,
+SVN,Slovenia,HOUSEHOLD,Waste from households,2009,2009,TONNE,Tonnes,3,Thousands,,,637.8,,
+SVN,Slovenia,HOUSEHOLD,Waste from households,2010,2010,TONNE,Tonnes,3,Thousands,,,796.41,,
+SVN,Slovenia,HOUSEHOLD,Waste from households,2011,2011,TONNE,Tonnes,3,Thousands,,,721.72,,
+SVN,Slovenia,HOUSEHOLD,Waste from households,2012,2012,TONNE,Tonnes,3,Thousands,,,671.84,,
+SVN,Slovenia,HOUSEHOLD,Waste from households,2013,2013,TONNE,Tonnes,3,Thousands,,,535.74,,
+SVN,Slovenia,HOUSEHOLD,Waste from households,2014,2014,TONNE,Tonnes,3,Thousands,,,542.03,,
+SVN,Slovenia,HOUSEHOLD,Waste from households,2015,2015,TONNE,Tonnes,3,Thousands,,,547.47,,
+SVN,Slovenia,HOUSEHOLD,Waste from households,2016,2016,TONNE,Tonnes,3,Thousands,,,549.19,,
+SVN,Slovenia,HOUSEHOLD,Waste from households,2017,2017,TONNE,Tonnes,3,Thousands,,,580.1,,
+SVN,Slovenia,HOUSEHOLD,Waste from households,2018,2018,TONNE,Tonnes,3,Thousands,,,623.08,,
+SVN,Slovenia,HOUSEHOLD,Waste from households,2019,2019,TONNE,Tonnes,3,Thousands,,,628.981,,
+SVN,Slovenia,HOUSEHOLD,Waste from households,2020,2020,TONNE,Tonnes,3,Thousands,,,628.439,,
+IND,India,HOUSEHOLD,Waste from households,2012,2012,TONNE,Tonnes,3,Thousands,,,31875.532,,
+LTU,Lithuania,HOUSEHOLD,Waste from households,1995,1995,TONNE,Tonnes,3,Thousands,,,1082.2,,
+LTU,Lithuania,HOUSEHOLD,Waste from households,1996,1996,TONNE,Tonnes,3,Thousands,,,1011.5,,
+LTU,Lithuania,HOUSEHOLD,Waste from households,1997,1997,TONNE,Tonnes,3,Thousands,,,1057.0,,
+LTU,Lithuania,HOUSEHOLD,Waste from households,1998,1998,TONNE,Tonnes,3,Thousands,,,1104.6,,
+LTU,Lithuania,HOUSEHOLD,Waste from households,1999,1999,TONNE,Tonnes,3,Thousands,,,865.2,,
+LTU,Lithuania,HOUSEHOLD,Waste from households,2000,2000,TONNE,Tonnes,3,Thousands,,,893.144,,
+LTU,Lithuania,HOUSEHOLD,Waste from households,2001,2001,TONNE,Tonnes,3,Thousands,,,919.415,,
+LTU,Lithuania,HOUSEHOLD,Waste from households,2002,2002,TONNE,Tonnes,3,Thousands,,,976.57,,
+LTU,Lithuania,HOUSEHOLD,Waste from households,2003,2003,TONNE,Tonnes,3,Thousands,,,929.327,,
+LTU,Lithuania,HOUSEHOLD,Waste from households,2004,2004,TONNE,Tonnes,3,Thousands,,,882.084,,
+LTU,Lithuania,HOUSEHOLD,Waste from households,2005,2005,TONNE,Tonnes,3,Thousands,,,901.159,,
+LTU,Lithuania,HOUSEHOLD,Waste from households,2006,2006,TONNE,Tonnes,3,Thousands,,,928.004,,
+LTU,Lithuania,HOUSEHOLD,Waste from households,2007,2007,TONNE,Tonnes,3,Thousands,,,947.527,,
+LTU,Lithuania,HOUSEHOLD,Waste from households,2008,2008,TONNE,Tonnes,3,Thousands,,,958.286,,
+LTU,Lithuania,HOUSEHOLD,Waste from households,2009,2009,TONNE,Tonnes,3,Thousands,,,843.871,,
+LTU,Lithuania,HOUSEHOLD,Waste from households,2010,2010,TONNE,Tonnes,3,Thousands,,,876.832,,
+LTU,Lithuania,HOUSEHOLD,Waste from households,2011,2011,TONNE,Tonnes,3,Thousands,,,937.496,,
+LTU,Lithuania,HOUSEHOLD,Waste from households,2012,2012,TONNE,Tonnes,3,Thousands,,,931.11,,
+LTU,Lithuania,HOUSEHOLD,Waste from households,2013,2013,TONNE,Tonnes,3,Thousands,,,896.03,,
+LTU,Lithuania,HOUSEHOLD,Waste from households,2014,2014,TONNE,Tonnes,3,Thousands,,,889.171,,
+LTU,Lithuania,HOUSEHOLD,Waste from households,2015,2015,TONNE,Tonnes,3,Thousands,,,909.999,,
+LTU,Lithuania,HOUSEHOLD,Waste from households,2016,2016,TONNE,Tonnes,3,Thousands,,,890.443,,
+LTU,Lithuania,HOUSEHOLD,Waste from households,2017,2017,TONNE,Tonnes,3,Thousands,,,900.504,,
+LTU,Lithuania,HOUSEHOLD,Waste from households,2018,2018,TONNE,Tonnes,3,Thousands,,,910.401,,
+LTU,Lithuania,HOUSEHOLD,Waste from households,2019,2019,TONNE,Tonnes,3,Thousands,,,923.038,,
+LTU,Lithuania,HOUSEHOLD,Waste from households,2020,2020,TONNE,Tonnes,3,Thousands,,,985.461,,
+CRI,Costa Rica,HOUSEHOLD,Waste from households,2016,2016,TONNE,Tonnes,3,Thousands,,,1147.0,,
+CRI,Costa Rica,HOUSEHOLD,Waste from households,2017,2017,TONNE,Tonnes,3,Thousands,,,898.0,,
+CRI,Costa Rica,HOUSEHOLD,Waste from households,2018,2018,TONNE,Tonnes,3,Thousands,,,1063.0,,
+CRI,Costa Rica,HOUSEHOLD,Waste from households,2019,2019,TONNE,Tonnes,3,Thousands,,,1071.0,,
+CRI,Costa Rica,HOUSEHOLD,Waste from households,2020,2020,TONNE,Tonnes,3,Thousands,,,1181.62,,
+TUR,Türkiye,HOUSEHOLD,Waste from households,2014,2014,TONNE,Tonnes,3,Thousands,,,25134.0,E,Estimated value
+TUR,Türkiye,HOUSEHOLD,Waste from households,2015,2015,TONNE,Tonnes,3,Thousands,,,25605.0,E,Estimated value
+TUR,Türkiye,HOUSEHOLD,Waste from households,2016,2016,TONNE,Tonnes,3,Thousands,,,28098.0,E,Estimated value
+TUR,Türkiye,HOUSEHOLD,Waste from households,2017,2017,TONNE,Tonnes,3,Thousands,,,28124.0,E,Estimated value
+TUR,Türkiye,HOUSEHOLD,Waste from households,2018,2018,TONNE,Tonnes,3,Thousands,,,28099.0,E,Estimated value
+TUR,Türkiye,HOUSEHOLD,Waste from households,2019,2019,TONNE,Tonnes,3,Thousands,,,28493.652,E,Estimated value
+PRT,Portugal,HOUSEHOLD,Waste from households,2020,2020,TONNE,Tonnes,3,Thousands,,,0.0,,
+CYP,Cyprus,HOUSEHOLD,Waste from households,2019,2019,TONNE,Tonnes,3,Thousands,,,388.33,E,Estimated value
+CYP,Cyprus,HOUSEHOLD,Waste from households,2020,2020,TONNE,Tonnes,3,Thousands,,,379.99,,
