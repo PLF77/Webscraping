@@ -5,7 +5,7 @@ from plotly.subplots import make_subplots
 
 
 # get the dataframes from the folder
-MUNICIPAL = pd.read_csv(".\dataframes\MUNICIPAL.csv")
+MUNICIPAL = pd.read_csv(r"dataframes/MUNICIPAL.csv")
 # get the list of countries
 countries = MUNICIPAL["Country"].unique()
 
@@ -13,8 +13,8 @@ countries = MUNICIPAL["Country"].unique()
 st.subheader("Analysis")
 st.subheader("Is GDP related to the amount of waste produced?")
 
-data_MW_CAP = pd.read_csv(".\dataframes\MW_CAP.csv" )
-data_GDP = pd.read_csv("dataframes/GDP_pcapita.csv", index_col=0)
+data_MW_CAP = pd.read_csv(r"dataframes/MW_CAP.csv" )
+data_GDP = pd.read_csv(r"dataframes/GDP_pcapita.csv", index_col=0)
 
 # slider for the year
 year = st.slider("Year", 1990, 2020, 2020)
@@ -72,7 +72,7 @@ data_MW_CAP_2 = data_MW_CAP_2[~data_MW_CAP_2["Country"].str.startswith("OECD")]
 data_MW_CAP_2 = data_MW_CAP_2[data_MW_CAP_2["Year"] == year].groupby("Country")["Value"].mean()
 
 # HDI
-data_HDI = pd.read_csv("dataframes/HDI.csv", index_col=0)
+data_HDI = pd.read_csv(r"dataframes/HDI.csv", index_col=0)
 data_HDI_1 = data_HDI.loc[:,f"{year4}"]
 # In country names replace - with space
 data_HDI_1.index = data_HDI_1.index.str.replace("-", " ")
@@ -117,8 +117,8 @@ st.plotly_chart(fig)
 
 st.subheader("Is recycling share and landfill share related to the GDP per capita?")
 
-data_recycling = pd.read_csv("dataframes/RECYCLING_SHARE.csv", index_col=0)
-data_landfill = pd.read_csv("dataframes/LANDF_SHARE.csv", index_col=0)
+data_recycling = pd.read_csv(r"dataframes/RECYCLING_SHARE.csv", index_col=0)
+data_landfill = pd.read_csv(r"dataframes/LANDF_SHARE.csv", index_col=0)
 
 # slider for the year
 year2 = st.slider("Year ", 1990, 2020, 2020)
@@ -208,7 +208,7 @@ data_MW_CAP_3 = data_MW_CAP[data_MW_CAP["Year"] == year5]
 data_MW_CAP_3 = data_MW_CAP_3[~data_MW_CAP_3["Country"].str.startswith("OECD")]
 
 # Population exposure to heat stress
-data_heat = pd.read_csv("dataframes/UTCI_POP_IND.csv", index_col=0)
+data_heat = pd.read_csv(r"dataframes/UTCI_POP_IND.csv", index_col=0)
 data_heat = data_heat[data_heat["TIME_PERIOD: Time period"] == year]
 
 # keep  REF_AREA: Reference area, DURATION: Duration, HEAT_STRESS: Heat stress thresholds, TIME_PERIOD: Time period, OBS_VALUE
@@ -231,7 +231,7 @@ data_MW_CAP_3 = data_MW_CAP_3.sort_values(by="Value", ascending=True)
 data_heat = data_heat.sort_values(by="Value", ascending=True)
 
 
-data_icing = pd.read_csv("dataframes/ID_POP_IND.csv", index_col=0)
+data_icing = pd.read_csv(r"dataframes/ID_POP_IND.csv", index_col=0)
 
 data_icing_1 = data_icing[data_icing["TIME_PERIOD: Time period"] == year]
 # keep  REF_AREA: Reference area, DURATION: Duration, HEAT_STRESS: Heat stress thresholds, TIME_PERIOD: Time period, OBS_VALUE
@@ -289,7 +289,7 @@ st.subheader("Population density vs Waste production")
 #  slider for the year
 year6 = st.slider("Year     ", 1990, 2020, 2020)
 
-data_pop_den = pd.read_csv("./dataframes/population-density.csv", index_col=0)
+data_pop_den = pd.read_csv(r"dataframes/population-density.csv", index_col=0)
 data_pop_den = data_pop_den[data_pop_den["Year"] == year6]
 data_pop_den = data_pop_den["Population density"]
 

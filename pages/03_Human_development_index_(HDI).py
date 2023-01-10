@@ -4,7 +4,7 @@ import plotly.express as px
 
 
 # get the dataframes from the folder
-MUNICIPAL = pd.read_csv(".\dataframes\MUNICIPAL.csv")
+MUNICIPAL = pd.read_csv(r"dataframes/MUNICIPAL.csv")
 # get the list of countries
 countries = MUNICIPAL["Country"].unique()
 
@@ -15,7 +15,7 @@ st.subheader("Human Development Index")
 # Little paragraph to explain what the HDI is
 st.info("The Human Development Index (HDI) is a composite statistic of life expectancy, education, and per capita income indicators, which are used to rank countries into four tiers of human development. A country scores higher HDI when the lifespan is higher, the education level is higher, and the GDP per capita is higher.")
 
-ds = pd.read_csv("dataframes/HDI.csv", index_col=0)
+ds = pd.read_csv(r"dataframes/HDI.csv", index_col=0)
 # In country names replace - with space
 ds.index = ds.index.str.replace("-", " ")
 # In country names capitalize after space
@@ -44,7 +44,7 @@ st.subheader("HDI evolution")
 # dropdown for the country
 country = st.selectbox("Country", ds.index)
 # line plot of the evolution of the HDI for the selected country
-ds = pd.read_csv("dataframes/HDI.csv", index_col=0)
+ds = pd.read_csv(r"dataframes/HDI.csv", index_col=0)
 
 # In country names replace - with space
 ds.index = ds.index.str.replace("-", " ")

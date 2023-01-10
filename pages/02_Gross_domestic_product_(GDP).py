@@ -3,7 +3,7 @@ import pandas as pd
 import plotly.express as px
 
 # get the dataframes from the folder
-MUNICIPAL = pd.read_csv(".\dataframes\MUNICIPAL.csv")
+MUNICIPAL = pd.read_csv(r"dataframes/MUNICIPAL.csv")
 # get the list of countries
 countries = MUNICIPAL["Country"].unique()
 
@@ -14,7 +14,7 @@ st.header("GDP per capita")
 # Little paragraph explaining what GDP per capita is
 st.info("GDP is the total value of goods and services produced by a country in a year. It is used as a way to compare the economic development of different countries and to track trends over time. GDP per capita is a measure of the average income of a country's citizens. It is calculated by dividing the country's GDP by its population.")
 
-ds = pd.read_csv("dataframes/GDP_pcapita.csv", index_col=0)
+ds = pd.read_csv(r"dataframes/GDP_pcapita.csv", index_col=0)
 
 # Replace South-korea with "Korea"
 ds.index = ds.index.str.replace("South-korea", "Korea")
@@ -48,7 +48,7 @@ st.subheader("GDP per capita evolution")
 # dropdown for the country
 country = st.selectbox("Country", ds.index)
 # line plot of the evolution of the GDP per capita for the selected country
-ds = pd.read_csv("dataframes/GDP_pcapita.csv", index_col=0)
+ds = pd.read_csv(r"dataframes/GDP_pcapita.csv", index_col=0)
 # Replace South-korea with "Korea"
 ds.index = ds.index.str.replace("South-korea", "Korea")
 # replace Turkey by Türkiye

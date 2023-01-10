@@ -4,16 +4,13 @@ import plotly.express as px
 
 
 # get the dataframes from the folder
-MUNICIPAL = pd.read_csv(".\dataframes\MUNICIPAL.csv")
+MUNICIPAL = pd.read_csv(r"dataframes/MUNICIPAL.csv")
 # get the list of countries
 countries = MUNICIPAL["Country"].unique()
 
 
 # Small title for the page
 st.subheader("Extreme temperatures")
-# Little paragraph to explain what the Extreme temperatures is
-st.info("Extreme temperatures are the highest and lowest temperatures recorded in a given area. It is used to compare the extreme temperatures of different countries and to track trends over time.")
-
 
 # drop down for category mesurement
 st.subheader("Type of mesurement related to extreme temperatures")
@@ -53,7 +50,7 @@ mesurement = st.selectbox("Mesurement", list(df_list.keys()))
 st.info("%s" % df_definitions[mesurement])
 
 # load the appropriate dataframe
-data = pd.read_csv(".\dataframes\%s.csv" % df_list[mesurement])
+data = pd.read_csv(r"dataframes/%s.csv" % df_list[mesurement])
 
 # slider for the year
 year = st.slider("Year", 1990, 2020, 2020)

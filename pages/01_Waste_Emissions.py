@@ -70,7 +70,7 @@ category = st.selectbox("Category", df_list_str)
 st.info("%s" % df_definitions[category])
 
 # load the appropriate dataframe
-data = pd.read_csv(".\dataframes\%s.csv" % df_list[df_list_str.index(category)])
+data = pd.read_csv(r"dataframes/%s.csv" % df_list[df_list_str.index(category)])
 # slider for the year
 year = st.slider("Year", 1990, 2020, 2020)
 # bar plot for the selected year
@@ -106,7 +106,7 @@ st.plotly_chart(fig)
 st.subheader("Waste emission evolution")
 
 # dropdown for the country
-data = pd.read_csv(".\dataframes\%s.csv" % df_list[df_list_str.index(category)])
+data = pd.read_csv(r"dataframes/%s.csv" % df_list[df_list_str.index(category)])
 data = data[~data["Country"].str.startswith("OECD")]
 country = st.selectbox("Country", data["Country"].unique())
 # line plot of the evolution of the municipal waste emission for the selected country

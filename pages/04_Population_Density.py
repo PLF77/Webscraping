@@ -4,15 +4,17 @@ import plotly.express as px
 
 
 # get the dataframes from the folder
-MUNICIPAL = pd.read_csv(".\dataframes\MUNICIPAL.csv")
+MUNICIPAL = pd.read_csv(r"dataframes/MUNICIPAL.csv")
 # get the list of countries
 countries = MUNICIPAL["Country"].unique()
 
+# Small title for the page
+st.subheader("Population Density")
 
 # Little paragraph to explain what the Population Density is
 st.info("Population density is the number of people living in a given area. It is used to compare the population of different countries and to track trends over time.")
 
-ds = pd.read_csv("./dataframes/population-density.csv", index_col=0)
+ds = pd.read_csv(r"dataframes/population-density.csv", index_col=0)
 # In country names replace - with space
 ds.index = ds.index.str.replace("-", " ")
 # In country names capitalize after space
@@ -40,7 +42,7 @@ st.subheader("Population Density evolution")
 # dropdown for the country
 country = st.selectbox("Country", ds.index)
 # line plot of the evolution of the Population Density for the selected country
-ds = pd.read_csv("./dataframes/population-density.csv", index_col=0)
+ds = pd.read_csv(r"dataframes/population-density.csv", index_col=0)
 
 # In country names replace - with space
 ds.index = ds.index.str.replace("-", " ")
